@@ -5,7 +5,7 @@
 
 This data analysis project aims to provide insights into the sales data over the past 2 years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![Dashboard](https://github.com/Omer-etiwie/Sales_Report/assets/171517937/fd5d2ca0-da07-4e57-8546-f7d66707744e)
+![Dashboard](https://github.com/saifhashim17/data_exploration_in_Excel/blob/main/345660388-fd5d2ca0-da07-4e57-8546-f7d66707744e.png)
 
 
 ### Data Sources
