@@ -1,4 +1,4 @@
-# data_exploration_in_Excel
+# Data_exploration_in_Excel
 # Sales_Report
 
 ### Project Overview
